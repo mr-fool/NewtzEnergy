@@ -16,3 +16,19 @@ body, html {
   background-size: contain;
   position: relative;
 }
+
+.About {
+
+font-family: oswald;
+
+width: 100%;
+padding-top:2.5%;
+padding-bottom:2.5%;
+background: linear-gradient(#ffffffe6, #dcd5d599), url("img/aboutbg.jpeg");
+background-position:center;
+background-size:cover;
+background-repeat: no-repeat;
+background-color: #fbfbfb;
+
+}
+ 
